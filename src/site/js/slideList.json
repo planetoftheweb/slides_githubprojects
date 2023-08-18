@@ -5,29 +5,26 @@
     "filename": "00_02",
     "title": "Slides" }
 ,{
-    "filename": "01_01",
+    "filename": "01_02",
     "title": "GitHub Projects" }
 ,{
-    "filename": "01_02",
+    "filename": "01_03",
     "title": "Project Settings" }
 ,{
-    "filename": "01_03",
+    "filename": "01_04",
     "title": "Views" }
 ,{
-    "filename": "01_04",
+    "filename": "01_05",
     "title": "Issues" }
 ,{
-    "filename": "01_05",
+    "filename": "01_06",
     "title": "Starting with Issues" }
-,{
-    "filename": "demo",
-    "title": "Opinionated Reveal.js" }
-,{
-    "filename": "slides",
-    "title": "" }
 ,{
     "filename": "02_01",
     "title": "Pull Requests" }
+,{
+    "filename": "02_02",
+    "title": "Using Labels" }
 ,{
     "filename": "02_03",
     "title": "Customizing Views" }
@@ -38,6 +35,12 @@
     "filename": "02_05",
     "title": "Charts" }
 ,{
-    "filename": "02_02",
-    "title": "Using Labels" }
+    "filename": "demo",
+    "title": "Opinionated Reveal.js" }
+,{
+    "filename": "slides",
+    "title": "" }
+,{
+    "filename": "01_01",
+    "title": "Projects vs Classic" }
 ]
