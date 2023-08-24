@@ -6,19 +6,25 @@
     "title": "Slides" }
 ,{
     "filename": "01_01",
-    "title": "GitHub Projects" }
+    "title": "Projects vs Classic" }
 ,{
     "filename": "01_02",
-    "title": "Project Settings" }
+    "title": "GitHub Projects" }
 ,{
     "filename": "01_03",
-    "title": "Views" }
+    "title": "Project Settings" }
 ,{
     "filename": "01_04",
-    "title": "Issues" }
+    "title": "Views" }
 ,{
     "filename": "01_05",
+    "title": "Issues" }
+,{
+    "filename": "01_06",
     "title": "Starting with Issues" }
+,{
+    "filename": "01_09",
+    "title": "Saved Replies" }
 ,{
     "filename": "02_01",
     "title": "Pull Requests" }
